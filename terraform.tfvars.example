@@ -1,0 +1,15 @@
+resource_group_name = "rg-backup-demo"
+
+location = "East US"
+
+vnet_name = "backup-vnet"
+
+subnet_name = "vm-subnet"
+
+nsg_name = "backup-nsg"
+
+vm_name = "backup-vm"
+
+admin_username = "azureuser"
+
+admin_password = "ChangeMe123!"
